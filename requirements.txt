@@ -1,0 +1,7 @@
+requests
+pandas
+anthropic
+python-dotenv
+pypdf
+sentence-transformers
+scikit-learn

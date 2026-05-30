@@ -1,0 +1,21 @@
+# secrets
+.env
+CLAUDE.md
+
+# system & editor
+.DS_Store
+.claude/
+
+# generated data
+cache/
+*.csv
+profile.json
+
+# personal files
+resume/
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
